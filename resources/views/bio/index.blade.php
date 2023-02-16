@@ -1,1 +1,1 @@
-b
+@extends('name')
