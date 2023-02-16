@@ -1,1 +1,1 @@
-@extends('name')
+Okan cacad
