@@ -1,10 +1,10 @@
 @extends('component.master')
-
 @section('header')
     <div class="section-header">
         <h1>Edit Bio Data Masjid</h1>
     </div>
 @endsection
+
 
 @section('content')
     {{-- @dd($jurusan) --}}
